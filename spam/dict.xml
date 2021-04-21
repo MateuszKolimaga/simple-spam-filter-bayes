@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dictionary>
+	<word type="spam" probabilty="0.167">cen</word>
+	<word type="spam" probabilty="0.51">okazja</word>
+	<word type="spam" probabilty="0.051">now</word>
+	<word type="spam" probabilty="0.333">szalon</word>
+	<word type="ham" probabilty="0.11">ocen</word>
+	<word type="ham" probabilty="0.0001">przyznan</word>
+</dictionary>
